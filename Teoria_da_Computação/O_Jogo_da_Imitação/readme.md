@@ -200,7 +200,7 @@ Além disso, o trabalho de Alan Turing ultrapassou o contexto militar e influenc
 
 ## Autor
 
-**Nome:** Guilherme  
+**Nome:** Guilherme Barros
 **Curso:** Engenharia de Software  
 **Disciplina:** Teoria da Computação  
 **Professor:** George Mendes  
