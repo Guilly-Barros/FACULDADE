@@ -1,0 +1,3 @@
+//a) Explique como o uso de uma matriz pode facilitar o armazenamento e a analise de dados em um sistema de HelpDesk.
+
+// O uso de uma matriz permite organizar os dados de forma estruturada, facilitando o acesso e a manipulação das informações. Em um sistema de HelpDesk, uma matriz pode ser utilizada para armazenar informações como o número de chamados, o tempo de resposta, a satisfação do cliente, entre outros. Isso possibilita a realização de análises mais eficientes, como calcular médias, identificar padrões e gerar relatórios, contribuindo para a melhoria do atendimento e a tomada de decisões estratégicas.
